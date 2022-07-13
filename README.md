@@ -22,5 +22,5 @@
   <img src="https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white" />
 </div>
 <hr/>
-<a [![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy) >
+<a [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GevGrig007=compact)](https://github.com/GevGrig007/github-readme-stats) >
 
