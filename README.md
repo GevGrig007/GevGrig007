@@ -22,4 +22,6 @@
   <img src="https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white" />
 </div>
 <hr/>
-
+<div>
+      www.linkedin.com/in/gevgrig007
+</div>
