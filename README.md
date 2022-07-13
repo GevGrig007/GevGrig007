@@ -21,4 +21,5 @@
   <img src="https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white" />
   <img src="https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white" />
 </div>
-
+<hr/>
+[![trophy](https://github-profile-trophy.vercel.app/?username=GevGrig007)](https://github.com/GevGrig007/github-profile-trophy)
