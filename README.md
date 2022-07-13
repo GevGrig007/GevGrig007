@@ -3,7 +3,7 @@
     <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
   <h3 align="center"> .NET DEVELOPER</h3>
   <div align="center" >
-    <a  src="www.linkedin.com/in/gevgrig007">
+    <a  [](www.linkedin.com/in/gevgrig007)>
       <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
     </a>
   </div>
