@@ -4,7 +4,7 @@
   <h3 align="center"> .NET DEVELOPER</h3>
   <div align="center" >
     <a  [](www.linkedin.com/in/gevgrig007)>
-      <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+      <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"/>
     </a>
   </div>
 </div>
@@ -23,5 +23,5 @@
 </div>
 <hr/>
 <div>
-      
+    [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GevGrig007&layout=compact)](https://github.com/GevGrig007/github-readme-stats)  
 </div>
