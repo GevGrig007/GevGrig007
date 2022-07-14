@@ -3,10 +3,10 @@
     <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
   <h3 align="center"> .NET DEVELOPER</h3>
   <div align="center" >
-    <div  href="www.linkedin.com/in/gevgrig007">
+    <a  href="https://www.linkedin.com/in/gevgrig007">
       <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"/>
     </div>
-  </div>
+  </a>
 </div>
 <hr/>
 <div align="center" >
