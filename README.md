@@ -1,5 +1,5 @@
 <div style="bgcolor:blue">
-  <h1 align="center">Hi there, I'm <a href="https://daniilshat.ru/" target="_blank">Gevorg</a> 
+  <h1 align="center">Hi there, I'm <a href="https://github.com/GevGrig007" target="_blank">Gevorg</a> 
     <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
   <h3 align="center"> .NET DEVELOPER</h3>
   <div align="center" >
