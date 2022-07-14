@@ -24,5 +24,5 @@
 </div>
 <hr/>
 <div>
-    [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GevGrig007&layout=compact)](https://github.com/GevGrig007/github-readme-stats)  
+    [![Top Langs](https://github.com/GevGrig007/github-readme-stats)  
 </div>
