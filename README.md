@@ -26,7 +26,5 @@
  <div align="center" > 
   
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GevGrig007&layout=compact)](https://github.com/GevGrig007/github-readme-stats)
-  
-  [![trophy](https://github-profile-trophy.vercel.app/?username=GevGrig007)](https://github.com/GevGrig007/github-profile-trophy)
 </div>
 
