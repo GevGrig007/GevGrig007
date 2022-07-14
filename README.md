@@ -24,5 +24,5 @@
 </div>
 <hr/>
 <div>
-    [!Top Langs](https://github.com/GevGrig007/github-readme-stats)  
+    https://github.com/GevGrig007/github-readme-stats
 </div>
