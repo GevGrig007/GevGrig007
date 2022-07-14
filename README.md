@@ -3,10 +3,10 @@
     <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
   <h3 align="center"> .NET DEVELOPER</h3>
   <div align="center" >
-    <a>
+    <div>
       [](www.linkedin.com/in/gevgrig007)
       <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"/>
-    </a>
+    </div>
   </div>
 </div>
 <hr/>
@@ -23,3 +23,6 @@
   <img src="https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white" />
 </div>
 <hr/>
+<div>
+    [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GevGrig007&layout=compact)](https://github.com/GevGrig007/github-readme-stats)  
+</div>
