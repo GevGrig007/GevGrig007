@@ -4,8 +4,7 @@
   <h3 align="center"> .NET DEVELOPER</h3>
   <div align="center" >
     <div>
-      www.linkedin.com/in/gevgrig007
-      <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"/>
+      <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"/ href="www.linkedin.com/in/gevgrig007">
     </div>
   </div>
 </div>
