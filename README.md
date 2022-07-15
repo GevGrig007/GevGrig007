@@ -8,6 +8,9 @@
     </div>
   </a>
 </div>
+<div align="center">
+        My name is Gevorg. I do programmings, trying out different technologies. Open to continuous improvement , live in constant learning...
+ </div>
 <hr/>
 <div align="center" >
     <img src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white" />
@@ -22,9 +25,7 @@
   <img src="https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white" />
 </div>
 <hr/>
- <div align="center">
-        My name is Gevorg. I do programmings, trying out different technologies.Open to continuous improvement,live in constant learning...
- </div> 
+  
  <div align="center" > 
   
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GevGrig007&layout=compact)](https://github.com/GevGrig007/github-readme-stats)
