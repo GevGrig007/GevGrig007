@@ -9,6 +9,7 @@
   </a>
 </div>
 <div align="center">
+        <p></p>
         <p>  My name is Gevorg. I do programmings, trying out different technologies. </p>
         <p> Open to continuous improvement , live in constant learning...  </p>
  </div>
